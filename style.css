@@ -1,0 +1,10 @@
+h1:hover{
+  
+    color: darkgrey;
+}
+img {
+  border: 5px solid #555;
+   width: 200px;
+  height: 400px;
+  object-fit: inherit;
+}
